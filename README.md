@@ -8,17 +8,17 @@ The following are the results of the machine learning models used in this analys
 
 1. Naive Random Oversampling (RandomOverSampler):
 
-<details>
-  <summary>Naive Random Oversampling (RandomOverSampler)</summary>
+  <details>
+    <summary>Naive Random Oversampling (RandomOverSampler)</summary>
 
-  [![Naive Random Oversampling](Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)](Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)
-</details>
+    [![Naive Random Oversampling](Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)]  (Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)
+  </details>
 
-   - Balanced Accuracy Score: 0.6463970560994359
-   - Precision (High Risk): 0.01
-   - Precision (Low Risk): 1.00
-   - Recall (High Risk): 0.71
-   - Recall (Low Risk): 0.58
+    - Balanced Accuracy Score: 0.6463970560994359
+    - Precision (High Risk): 0.01
+    - Precision (Low Risk): 1.00
+    - Recall (High Risk): 0.71
+    - Recall (Low Risk): 0.58
 
 2. SMOTE Oversampling (SMOTE):
    - Balanced Accuracy Score: 0.658623076994322
