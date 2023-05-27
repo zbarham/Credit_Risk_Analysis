@@ -16,6 +16,8 @@ The following are the results of the machine learning models used in this analys
    - Recall (Low Risk): 0.58
 
 2. SMOTE Oversampling (SMOTE):
+     
+    ![SMOTE_ImbalancedClassificationReport](Screenshots/SMOTE_ImbalancedClassificationReport.png)
    - Balanced Accuracy Score: 0.658623076994322
    - Precision (High Risk): 0.01
    - Precision (Low Risk): 1.00
@@ -23,6 +25,8 @@ The following are the results of the machine learning models used in this analys
    - Recall (Low Risk): 0.68
 
 3. Undersampling (ClusterCentroids):
+     
+    ![ClusterCentroids_ImbalancedClassificationReport](Screenshots/ClusterCentroids_ImbalancedClassificationReport.png)
    - Balanced Accuracy Score: 0.5442369453268994
    - Precision (High Risk): 0.01
    - Precision (Low Risk): 1.00
@@ -30,6 +34,8 @@ The following are the results of the machine learning models used in this analys
    - Recall (Low Risk): 0.40
 
 4. Combination Sampling (SMOTEENN):
+     
+    ![SMOTEENN_ImbalancedClassificationReport](Screenshots/SMOTEENN_ImbalancedClassificationReport.png)
    - Balanced Accuracy Score: 0.6361059077142514
    - Precision (High Risk): 0.01
    - Precision (Low Risk): 1.00
@@ -37,6 +43,8 @@ The following are the results of the machine learning models used in this analys
    - Recall (Low Risk): 0.59
 
 5. Balanced Random Forest Classifier:
+     
+    ![BalancedRandomForestClassifier_ImbalancedClassificationReport](Screenshots/BalancedRandomForestClassifier_ImbalancedClassificationReport.png)
    - Balanced Accuracy Score: 0.7885466545953005
    - Precision (High Risk): 0.03
    - Precision (Low Risk): 1.00
@@ -44,6 +52,8 @@ The following are the results of the machine learning models used in this analys
    - Recall (Low Risk): 0.87
 
 6. Easy Ensemble AdaBoost Classifier:
+     
+    ![EasyEnsembleClassifier_ImbalancedClassificationReport](Screenshots/EasyEnsembleClassifier_ImbalancedClassificationReport.png)
    - Balanced Accuracy Score: 0.9316600714093861
    - Precision (High Risk): 0.09
    - Precision (Low Risk): 1.00
