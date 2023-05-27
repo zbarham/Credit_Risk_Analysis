@@ -7,6 +7,13 @@ The purpose of this analysis is to evaluate the performance of various machine l
 The following are the results of the machine learning models used in this analysis:
 
 1. Naive Random Oversampling (RandomOverSampler):
+
+<details>
+  <summary>Naive Random Oversampling (RandomOverSampler)</summary>
+
+  [![Naive Random Oversampling](Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)](Screenshots/RandomOverSampler_ImbalancedClassificationReport.png)
+</details>
+
    - Balanced Accuracy Score: 0.6463970560994359
    - Precision (High Risk): 0.01
    - Precision (Low Risk): 1.00
